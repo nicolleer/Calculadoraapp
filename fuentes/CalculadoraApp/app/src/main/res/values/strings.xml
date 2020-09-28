@@ -4,4 +4,10 @@
     <string name="texto2">Hola Mundo</string>
     <string name="texto3">Hola Mundo</string>
     <string name="texto4">SALUDAR</string>
+    <string name="sumarText">+</string>
+    <string name="n2Label">N2</string>
+    <string name="n1Label">N1</string>
+    <string name="divText">/</string>
+    <string name="multiText">*</string>
+    <string name="restaText">-</string>
 </resources>
